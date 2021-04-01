@@ -1,0 +1,1 @@
+module.exports.knownPaths = require('./known-paths');
